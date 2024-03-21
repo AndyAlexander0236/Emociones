@@ -12,8 +12,6 @@ En el siguiente enlace encuentras el código para ejecutar el entrenamiento en c
 
 [FaceEmotion.ipynb](https://github.com/DavidReveloLuna/Face_Emotion/blob/master/FaceEmotion.ipynb)
 
-## Prueba en tiempo real
-<img src="https://github.com/DavidReveloLuna/Face_Emotion/blob/master/assets/ToGift.gif" width="500">
 
 ### Preparación del entorno
 
@@ -31,5 +29,3 @@ Ejecutar el archivo FaceEmotionVideo.py
 
     $ python FaceEmotionVideo.py
 
-# **Canal de Youtube**
-[Click aquì pare ver mi canal de YOUTUBE](https://www.youtube.com/channel/UCr_dJOULDvSXMHA1PSHy2rg)
